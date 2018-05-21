@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rubber Duck</string>
+    <string name="quack">Quack</string>
+</resources>
